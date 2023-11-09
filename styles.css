@@ -1,1 +1,19 @@
-/* Write your CSS here! */
+/* Write your CSS here! *//* Set margin and display type for body element */
+body {
+    margin: 8px;
+    display: block;
+}
+
+/* Apply styling to mainHeading */
+#mainHeading {
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+}
+
+/* Apply styling to funParagraph */
+.funParagraph {
+    font-size: 18px;
+    color: green;
+    padding: 10px;
+}
